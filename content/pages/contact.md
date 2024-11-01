@@ -16,7 +16,7 @@ sections:
         label: WhatsApp
         url: 'tel:+12109475162'
       - type: Label
-        label: Next.js
+        label: WordPress
         url: 'https://constamuniz.wordpress.com/'
     colors: colors-f
     elementId: ''
