@@ -91,7 +91,7 @@ sections:
           - pb-20
           - pl-4
           - pr-4
-        alignItems: center
+        alignItems: flex-start
         justifyContent: center
         flexDirection: row
       title:
