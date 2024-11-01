@@ -34,38 +34,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: LabelsSection
-    title: My Socials
-    subtitle: 'Here are my most used socials, you can view my work here as well!'
-    items:
-      - type: Label
-        label: Instagram
-        url: 'https://www.instagram.com/constamuniz/'
-      - type: Label
-        label: LinkedIn
-        url: 'https://www.linkedin.com/in/constamuniz17'
-      - type: Label
-        label: Whatsapp
-        url: 'tel:+12109475162'
-      - type: Label
-        label: WordPress
-        url: 'https://constamuniz.wordpress.com/'
-    colors: colors-b
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-0
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: ContactSection
     title: Contact Me
     text: >+
