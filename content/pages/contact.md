@@ -10,7 +10,7 @@ sections:
         label: Instagram
         url: 'https://www.instagram.com/constamuniz/'
       - type: Label
-        label: React
+        label: Linkedin
         url: 'https://www.linkedin.com/in/constamuniz17'
       - type: Label
         label: Microsoft Office
