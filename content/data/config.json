@@ -26,7 +26,16 @@
                 "url": "/blog"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.instagram.com/constamuniz/",
+                "icon": "instagram",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "narrow"
