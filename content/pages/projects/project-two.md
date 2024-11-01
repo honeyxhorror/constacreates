@@ -1,6 +1,8 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: >-
+  Commuting Stress: Texas State University Students Navigate Mental Health
+  Challenges
 colors: colors-a
 date: '2024-05-06'
 client: Multimedia Journalism
