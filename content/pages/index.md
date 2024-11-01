@@ -38,7 +38,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: More About Me
         altText: ''
         url: /
         showIcon: false
