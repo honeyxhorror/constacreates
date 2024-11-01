@@ -19,6 +19,10 @@ media:
   type: ImageBlock
   url: /images/bg2.jpg
   altText: Project image
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
 Long commutes to Texas State University can affect the mental health of both students and staff. According to student demographics, 27,432 students are living off campus and commuting on the daily basis.
 
