@@ -57,7 +57,7 @@ sections:
       - type: Link
         label: See all projects
         url: /projects
-        icon: chevronRight
+        icon: playCircle
         iconPosition: right
         showIcon: true
     showDate: false
