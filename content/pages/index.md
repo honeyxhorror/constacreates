@@ -126,7 +126,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Contact Me
         altText: ''
         url: /
         showIcon: true
