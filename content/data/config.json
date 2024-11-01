@@ -61,7 +61,8 @@
                 "url": "mailto:consta.creates@gmail.com",
                 "altText": "",
                 "showIcon": false,
-                "icon": "mail"
+                "icon": "mail",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
