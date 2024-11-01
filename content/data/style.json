@@ -27,13 +27,13 @@
     },
     "h3": {
         "size": "3xl",
-        "weight": "normal",
+        "weight": "medium",
         "decoration": "underline",
         "case": "capitalize",
         "letterSpacing": "tighter"
     },
     "h4": {
-        "size": "3xl",
+        "size": "xl",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
@@ -47,7 +47,7 @@
         "letterSpacing": "tighter"
     },
     "h6": {
-        "size": "lg",
+        "size": "2xl",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
