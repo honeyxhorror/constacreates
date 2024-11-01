@@ -335,10 +335,7 @@ sections:
       - type: FeaturedItem
         title: I'm Focused
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "*   **Monitor**\_and analyze social media performance to optimize content and engagement strategies.\n\n*   **Track**\_social media metrics, analyze audience behavior, and identify content opportunities.\n\n*   **Improve**\_social media ROI, increase engagement, and refine content strategies for better results.\n\n\n\n"
         featuredImage:
           type: ImageBlock
           url: >-
