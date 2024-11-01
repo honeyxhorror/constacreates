@@ -95,4 +95,32 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+topSections:
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: FEATURED PROJECTS
+    subtitle: ''
+    text: >
+      Here I present my top digital media projects, each reflecting my
+      commitment to innovation, creativity, and excellence. These projects
+      highlight my ability to deliver impactful digital solutions that engage
+      audiences and drive results.
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
 ---
