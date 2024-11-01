@@ -227,6 +227,9 @@ sections:
       - type: Label
         label: Figma
         url: ''
+      - type: Label
+        label: HTML
+        url: ''
     title: Skills
   - type: DividerSection
     styles:
