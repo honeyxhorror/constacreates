@@ -28,7 +28,7 @@
     "h3": {
         "size": "4xl",
         "weight": "normal",
-        "decoration": "none",
+        "decoration": "line-through",
         "case": "uppercase",
         "letterSpacing": "normal"
     },
