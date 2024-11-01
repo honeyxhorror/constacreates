@@ -9,7 +9,7 @@ projectFeed:
   showDescription: true
   showReadMoreLink: true
   showFeaturedImage: true
-  variant: variant-a
+  variant: variant-b
   styles:
     self:
       width: narrow
@@ -37,7 +37,7 @@ topSections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
           - pt-16
           - pb-16
