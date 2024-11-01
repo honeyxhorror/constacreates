@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 50
 projectFeed:
   type: ProjectFeedSection
-  colors: colors-f
+  colors: colors-b
   showDate: false
   showDescription: true
   showReadMoreLink: true
