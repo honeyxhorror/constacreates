@@ -25,7 +25,7 @@ bottomSections: []
 topSections:
   - type: TextSection
     colors: colors-b
-    variant: variant-a
+    variant: variant-b
     title: featured projects
     subtitle: ''
     text: >
