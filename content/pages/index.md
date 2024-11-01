@@ -144,7 +144,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-10
+          - pt-16
           - pb-14
           - pl-4
           - pr-4
