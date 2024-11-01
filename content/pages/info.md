@@ -245,6 +245,9 @@ sections:
       - type: Label
         label: Video Editing
         url: ''
+      - type: Label
+        label: Virtual Studio Code
+        url: ''
     title: Skills
   - type: DividerSection
     styles:
