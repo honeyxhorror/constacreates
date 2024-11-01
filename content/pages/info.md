@@ -203,7 +203,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: LabelsSection
-    colors: colors-d
+    colors: colors-b
     subtitle: ''
     items:
       - type: Label
