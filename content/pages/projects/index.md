@@ -1,7 +1,7 @@
 ---
 type: ProjectFeedLayout
-title: Projects
-colors: colors-a
+title: ''
+colors: colors-b
 projectFeed:
   type: ProjectFeedSection
   colors: colors-b
@@ -39,8 +39,8 @@ topSections:
         height: auto
         width: narrow
         padding:
-          - pt-28
-          - pb-28
+          - pt-16
+          - pb-16
           - pl-4
           - pr-4
         justifyContent: center
