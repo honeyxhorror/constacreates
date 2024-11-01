@@ -7,7 +7,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Instagram
         url: 'https://www.instagram.com/constamuniz/'
       - type: Label
         label: React
