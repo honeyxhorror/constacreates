@@ -124,7 +124,7 @@ sections:
           name: Phone Number
           label: Phone Number
           hideLabel: false
-          placeholder: '### - ### - ####'
+          placeholder: 123 - 456 - 7890
           width: full
           isRequired: false
       submitLabel: 'Submit '
