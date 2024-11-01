@@ -97,7 +97,7 @@ bottomSections:
         textAlign: left
 topSections:
   - type: TextSection
-    colors: colors-f
+    colors: colors-b
     variant: variant-a
     title: featured projects
     subtitle: ''
