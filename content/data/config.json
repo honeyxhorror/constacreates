@@ -59,7 +59,8 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "mailto:consta.creates@gmail.com",
-                "altText": ""
+                "altText": "",
+                "showIcon": true
             },
             {
                 "type": "Link",
