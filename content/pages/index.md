@@ -128,7 +128,7 @@ sections:
       portray that creativity in a team setting.
     actions:
       - type: Button
-        label: Try it now
+        label: Contact Me
         altText: ''
         url: /
         showIcon: true
