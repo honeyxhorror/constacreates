@@ -14,7 +14,7 @@ sections:
         url: 'https://www.linkedin.com/in/constamuniz17'
       - type: Label
         label: Microsoft Office
-        url: ''
+        url: 'tel:+12109475162'
       - type: Label
         label: Next.js
         url: ''
