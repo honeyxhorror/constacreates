@@ -5,9 +5,10 @@ colors: colors-a
 date: '2021-12-20'
 client: Multimedia Journalism
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Using WordPress I created this blog post for my Multimedia Journalism course.
+  I take credit for every audio, video and image used, its all my original
+  content. Everything stated in this article is true to my knowledge. Overall,
+  this project took the whole Spring semester to complete.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
