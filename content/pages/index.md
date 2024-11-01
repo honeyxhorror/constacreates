@@ -122,7 +122,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: ContactSection
-    title: Subscribe
+    title: Contact
     text: Join my newsletter to stay up-to-date
     colors: colors-b
     backgroundSize: full
