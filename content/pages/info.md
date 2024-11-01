@@ -214,8 +214,6 @@ sections:
         label: Microsoft Office
       - type: Label
         label: Next.js
-      - type: Label
-        label: Netlify
   - type: DividerSection
     styles:
       self:
