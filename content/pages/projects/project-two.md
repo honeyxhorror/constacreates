@@ -56,6 +56,10 @@ The COVID-19 pandemic caused commuter rates to rise tremendously. Since social d
 
 Ensuring the mental well-being of commuters to Texas State University is essential because commuting stress and balancing academic and home life can be challenging. Feeling worn out from campus can impact their overall health. Prioritizing mental health support helps students and staff succeed in a supportive university environment.
 
+
+
+
+
 **Socials linked to this project:**
 
 WordPress Blog: <https://wordpress.com/view/constamuniz.wordpress.com>
