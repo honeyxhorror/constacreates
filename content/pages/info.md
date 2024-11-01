@@ -47,7 +47,6 @@ sections:
     title: 'I''m a creator, designer & writer.'
     media:
       type: ImageBlock
-      url: /images/image_2024-11-01_000754007.png
       altText: me
       caption: ''
       elementId: ''
