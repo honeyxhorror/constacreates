@@ -26,7 +26,7 @@ sections:
         - type: TextFormControl
           name: phone
           label: Name
-          hideLabel: false
+          hideLabel: true
           placeholder: Your name
           width: full
           isRequired: false
