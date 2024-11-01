@@ -18,15 +18,62 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 ---
+Long commutes to Texas State University can affect the mental health of both students and staff. According to student demographics, 27,432 students are living off campus and commuting on the daily basis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+As the semester comes to an end, many students and staff tend to be burned out because of their commuting situation. With the busy workdays and many classes to attend, the idea of sitting in a car for an extra hour or so is unappealing to most. Many factors like paying for gas, performing car maintenance, or dealing with traffic can get in the way and extend that journey.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+The university does provide its students and staff free resources for those who are struggling mentally due to their situation. Some resources include TimelyCare, HealthyCats, and the Counseling Center.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+[TimelyCare](https://www.healthcenter.txst.edu/timelycare.html) is an application for virtual care services that is available 24/7. It is free for students, and it requires no insurance. Students can use it to talk to others, get counseling, have a health coach, explore self-care and much more.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+[HealthyCats](https://www.healthcenter.txst.edu/hps/student-organizations/healthycats.html) is an on-campus organization that helps with health education and wellness, topics such as sexual health, drugs and mental health are addressed. Another free and available option for students in need.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+The [Counseling Office](https://www.counseling.txst.edu/about-the-counseling-center.html) is available to anybody who needs help with anything ranging in education to mental health issues. They are here to provide success in those attending college, making sure every person has a successful and healthy time on campus.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Texas State University senior Valen Nevaeh said her weekly commute affects her mental health and work performance. Simple inconveniences like making sure the gas tank is full and leaving early tend to drain Nevaeh’s mood quickly. Although she saves money by not paying for a parking pass, she spends more just trying to make sure she gets to school on time.
+
+![](https://constacreates.carrd.co/assets/images/image08.jpg?v=ddda1af3)
+
+Nevaeh is a North Austin local who commutes weekly to Texas State University. Due to personal reasons she moved back, therefore commuting to school is the best option. Nevaeh stated her commute to San Marcos is about an hour and fifteen minutes long depending on traffic and time.
+
+“My commute does impact my mental health even though it’s only twice a week, the constant driving and long school days tend to wear me out,” said Nevaeh.
+
+A lot of students like Nevaeh are worn out because of the same long cycle. She stated that traveling between two cities can be difficult at times.
+
+“Because I’m from Austin no matter when I leave traffic is always there. Parking as a commuter is hard because the lots are limited. The only parking I can find is outside of campus and its an issue because it takes me longer to get to class,” said Nevaeh.
+
+Even though Nevaeh has a long class schedule on the daily, she does everything in her power to keep a good mental state.
+
+
+
+[Journalism and Mass Communication](https://sjmc.txst.edu/) professor Kym Fox said that traveling long distances doesn’t affect her mental health or work performance. Fox is from Boerne, west of San Marcos, and because of her current schedule its less chaotic commuting.
+
+
+
+“My commute is long, but it’s a beautiful drive. And because I only have to come to campus twice a week, that is very manageable for me. The other three days of the week I work from home, therefore it’s not as much on my mental health,” said Fox.
+
+Fox said her drive is peaceful as she drives on back roads compared to those who drive on the highway. Having a reliable car also saves Fox the headache of wondering if she will make it to work or not.
+
+“It’s a long commute and its hard on my car, but because I only twice a week and during the long semesters, it equals out and its not as hard on me,” said Fox.
+
+![](https://constacreates.carrd.co/assets/images/image09.jpg?v=ddda1af3)
+
+The COVID-19 pandemic caused commuter rates to rise tremendously. Since social distancing was needed, all classes were moved to online, and it became a challenge for many students and staff.
+
+3 years of doing online classes took a mental toll on many students, but it did lower the number of students commuting to campus. As the semesters went by, the number of commuters normalized as on campus courses were brought back.
+
+Ensuring the mental well-being of commuters to Texas State University is essential because commuting stress and balancing academic and home life can be challenging. Feeling worn out from campus can impact their overall health. Prioritizing mental health support helps students and staff succeed in a supportive university environment.
+
+
+
+**Socials linked to this project:**
+
+
+WordPress Blog: <https://wordpress.com/view/constamuniz.wordpress.com>
+
+Instagram: <https://www.instagram.com/constamunizsjmc/>
+
+Twitter: <https://twitter.com/constamunizsjmc>
+
+
+
