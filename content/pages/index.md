@@ -93,7 +93,7 @@ sections:
     subtitle: Projects
   - type: ContactSection
     colors: colors-b
-    backgroundSize: full
+    backgroundSize: inset
     title: Contact
     form:
       type: FormBlock
