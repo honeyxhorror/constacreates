@@ -90,7 +90,7 @@ sections:
     subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
-    colors: colors-f
+    colors: colors-d
     variant: variant-d
     subtitle: Featured Posts
     showFeaturedImage: false
