@@ -6,11 +6,17 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      Hello! I'm an aspiring digital media enthusiast on a journey to transform
+      my passion into expertise. While my professional experience is just
+      beginning, my curiosity and eagerness to learn are boundless.I believe
+      that every challenge is an opportunity to grow, and I’m ready to dive into
+      the digital world with fresh ideas and a positive attitude. As a creative
+      innovator, I'm constantly exploring the latest trends in content creation,
+      SEO, media design, and audio/video editing.Join me as I embark on this new
+      exciting adventure where I evolve as a designer and artist!
+
+
     styles:
       self:
         height: auto
