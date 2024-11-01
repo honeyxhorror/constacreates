@@ -13,7 +13,7 @@
                 "label": "About Me",
                 "url": "/info",
                 "showIcon": true,
-                "icon": "play"
+                "icon": "apple"
             },
             {
                 "type": "Link",
