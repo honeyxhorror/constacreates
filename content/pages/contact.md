@@ -81,7 +81,7 @@ sections:
         url: 'tel:+12109475162'
       - type: Label
         label: WordPress
-        url: ''
+        url: 'https://constamuniz.wordpress.com/'
     colors: colors-b
     elementId: ''
     styles:
