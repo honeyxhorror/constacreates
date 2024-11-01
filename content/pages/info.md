@@ -264,16 +264,7 @@ sections:
         styles:
           self:
             textAlign: left
-    actions:
-      - type: Button
-        label: Download Resume
-        altText: ''
-        url: /
-        showIcon: true
-        icon: chevronRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     colors: colors-b
     columns: 3
     spacingX: 16
