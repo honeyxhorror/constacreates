@@ -48,7 +48,7 @@ sections:
       type: ImageBlock
       url: 'https://assets.stackbit.com/components/images/default/default-image.png'
       altText: ''
-      caption: Caption of the image
+      caption: ''
       elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
