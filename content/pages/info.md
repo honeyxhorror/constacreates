@@ -215,6 +215,9 @@ sections:
       - type: Label
         label: Canva
         url: ''
+      - type: Label
+        label: Content Managing Systems
+        url: ''
     title: Skills
   - type: DividerSection
     styles:
