@@ -206,6 +206,7 @@ sections:
     colors: colors-f
     subtitle: 'Skills:'
     items: []
+    title: Skills
   - type: DividerSection
     styles:
       self:
