@@ -78,9 +78,9 @@ sections:
       - type: FeaturedItem
         subtitle: ''
         text: |
-          **<br>**
+          <br>
 
-          **Busser at Oliver Garden**
+          ## **Busser at Oliver Garden**
 
           *September 2024 - Present*
 
@@ -88,7 +88,7 @@ sections:
 
           <br>
 
-          **Curbside at H-E-B**
+          ## **Curbside at H-E-B**
 
           *February 2022 - July 2022*
 
@@ -96,7 +96,7 @@ sections:
 
           <br>
 
-          **Cashier/Team Member at Whataburger**
+          ## **Cashier/Team Member at Whataburger**
 
           *August 2018 - April 2019*
 
