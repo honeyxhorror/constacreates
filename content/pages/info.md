@@ -270,7 +270,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: arrowUpLeft
+        icon: chevronLeft
         iconPosition: right
         style: secondary
         elementId: ''
