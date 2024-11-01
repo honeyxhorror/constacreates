@@ -115,6 +115,17 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - type: LabelsSection
     colors: colors-b
     subtitle: ''
