@@ -3,7 +3,7 @@ type: PageLayout
 title: Contact
 sections:
   - type: LabelsSection
-    title: Socials
+    title: Social Medias
     subtitle: 'Here are my most used socials, you can view my work here as well!'
     items:
       - type: Label
