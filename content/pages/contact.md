@@ -75,7 +75,7 @@ sections:
         url: 'https://www.instagram.com/constamuniz/'
       - type: Label
         label: LinkedIn
-        url: ''
+        url: 'https://www.linkedin.com/in/constamuniz17'
       - type: Label
         label: Whatsapp
         url: 'tel:+12109475162'
