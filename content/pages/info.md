@@ -345,13 +345,6 @@ sections:
         title: Search Engine Optimization
         subtitle: ''
         text: "*   *   **Set up**\_Google Analytics, track key SEO metrics, and generate performance reports.*   **Getting**\_content optimized for search engines (SEO) to improve visibility, organic traffic, and rankings.*   **Conducting**\_keyword research and incorporate SEO best practices to enhance content performance.\n\n\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
