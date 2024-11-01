@@ -3,7 +3,7 @@ type: PageLayout
 title: Contact
 sections:
   - type: LabelsSection
-    title: Skills
+    title: Socials
     subtitle: The section subtitle
     items:
       - type: Label
