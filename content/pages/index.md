@@ -123,12 +123,9 @@ sections:
         borderWidth: 1
   - type: CtaSection
     title: Interested in my work? Let's talk!
-    text: >+
-      I'm always open to working with creative individuals who are ready to get
-      creative in a team setting.
-
-
-
+    text: >
+      I'm always open to working with creative individuals who are ready to
+      portray that creativity in a team setting.
     actions:
       - type: Button
         label: Contact Me
