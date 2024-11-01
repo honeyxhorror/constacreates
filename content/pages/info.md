@@ -321,7 +321,7 @@ sections:
         title: Experience
       - type: FeaturedItem
         subtitle: ''
-        text: "**Texas State University**\n\n*Bachelor of Science in Digital Media Innovation, Minor in Art*\n\nSan Marcos, TX\n\n**Aug 2020 – May 2024**\n\n*   **Relevant Coursework:**\_Data Journalism, Multimedia Journalism, Editing & Managing Content, Immersive Storytelling, Media Writing, Media Design, Web Design and Publishing, Social Media Analytics\n\n\n\n\n\n**Northwest Vista College**\n\n*Liberal Art Studies*\n\nSan Antonio, TX\n\n**Aug 2019 – May 2020**\n\n*   **Relevant Coursework:**\_Digital Media and Drawing 1\n\n"
+        text: "**Texas State University**\n\n*Bachelor of Science in Digital Media Innovation, Minor in Art*\n\nSan Marcos, TX\n\n**Aug 2020 – May 2024**\n\n*   **Relevant Coursework:**\_Data Journalism, Multimedia Journalism, Editing & Managing Content, Immersive Storytelling, Media Writing, Media Design, Web Design and Publishing, Social Media Analytics\n\n\n\n**Northwest Vista College**\n\n*Liberal Art Studies*\n\nSan Antonio, TX\n\n**Aug 2019 – May 2020**\n\n*   **Relevant Coursework:**\_Digital Media and Drawing 1\n\n"
         styles:
           self:
             textAlign: left
