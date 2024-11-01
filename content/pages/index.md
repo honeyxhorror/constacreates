@@ -59,6 +59,7 @@ sections:
         url: /projects
         icon: arrowLeftCircle
         iconPosition: right
+        showIcon: false
     showDate: false
     showDescription: true
     showFeaturedImage: true
