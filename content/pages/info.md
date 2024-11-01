@@ -248,6 +248,9 @@ sections:
       - type: Label
         label: Virtual Studio Code
         url: ''
+      - type: Label
+        label: WordPress
+        url: ''
     title: Skills
   - type: DividerSection
     styles:
