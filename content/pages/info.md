@@ -242,6 +242,9 @@ sections:
       - type: Label
         label: Tableau
         url: ''
+      - type: Label
+        label: Video Editing
+        url: ''
     title: Skills
   - type: DividerSection
     styles:
