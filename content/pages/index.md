@@ -122,7 +122,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: CtaSection
-    title: Let's do this
+    title: Interested in my work? Let's talk!
     text: >
       I'm always open to working with creative individuals who are ready to
       portray that creativity in a team setting.
