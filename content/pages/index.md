@@ -57,6 +57,7 @@ sections:
       - type: Link
         label: See all projects
         url: /projects
+        icon: arrowLeftCircle
     showDate: false
     showDescription: true
     showFeaturedImage: true
