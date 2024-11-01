@@ -46,7 +46,7 @@ sections:
       type: ImageBlock
       url: /images/image_2024-11-01_000754007.png
       altText: me
-      caption: Caption of the image
+      caption: ''
       elementId: ''
   - type: DividerSection
     title: Divider
