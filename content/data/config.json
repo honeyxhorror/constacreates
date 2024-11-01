@@ -10,8 +10,10 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "About Me",
+                "url": "/info",
+                "showIcon": false,
+                "icon": "apple"
             },
             {
                 "type": "Link",

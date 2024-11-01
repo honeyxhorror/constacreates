@@ -57,6 +57,9 @@ sections:
       - type: Link
         label: See all projects
         url: /projects
+        icon: arrowRight
+        iconPosition: right
+        showIcon: true
     showDate: false
     showDescription: true
     showFeaturedImage: true
@@ -88,90 +91,43 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-b
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
   - type: ContactSection
     colors: colors-b
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Contact
     form:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
+        - name: Full Name
+          label: ''
+          hideLabel: false
+          placeholder: First and Last Name
           isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
+          width: full
           type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
           placeholder: Email
           isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
           width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+          type: EmailFormControl
+        - type: TextFormControl
+          name: Phone Number
+          label: ''
+          hideLabel: false
+          placeholder: Phone Number
+          width: full
+          isRequired: true
+        - type: TextareaFormControl
+          name: Message
+          label: Message
+          hideLabel: true
+          placeholder: Insterested in my work? Let's discuss ideas!
+          width: full
+          isRequired: true
+      submitLabel: 'Submit '
       styles:
         submitLabel:
           textAlign: center
@@ -196,4 +152,9 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: >
+      Feel free to contact me about any ideas or questions you may have, I'd
+      love to work with you. Fill out this form and I'll get back to you within
+      the next 24 hours. Thank you for reaching out and showing interest, we'll
+      speak soon!
 ---
