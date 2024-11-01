@@ -333,7 +333,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: Analytics Performance & Tracking
         subtitle: ''
         text: "*   **Monitor**\_and analyze social media performance to optimize content and engagement strategies.\n\n*   **Track**\_social media metrics, analyze audience behavior, and identify content opportunities.\n\n*   **Improve**\_social media ROI, increase engagement, and refine content strategies for better results.\n\n\n\n"
         actions: []
