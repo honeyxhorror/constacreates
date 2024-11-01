@@ -111,22 +111,6 @@ sections:
   - type: ContactSection
     title: Subscribe
     text: Join my newsletter to stay up-to-date
-    form:
-      type: FormBlock
-      title: Title of the form
-      fields:
-        - type: EmailFormControl
-          name: email
-          label: Name
-          hideLabel: false
-          placeholder: Your email
-          width: full
-          isRequired: 'true'
-      submitLabel: Sign Up
-      elementId: contact-form
-      styles:
-        submitLabel:
-          textAlign: left
     colors: colors-b
     backgroundSize: full
     elementId: ''
