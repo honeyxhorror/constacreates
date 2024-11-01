@@ -92,7 +92,7 @@ sections:
           - pl-4
           - pr-4
         alignItems: center
-        justifyContent: flex-start
+        justifyContent: flex-end
         flexDirection: row
       title:
         textAlign: center
