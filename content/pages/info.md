@@ -208,15 +208,4 @@ sections:
         label: WordPress
         url: ''
     title: Skills
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-0
-          - pb-0
-        justifyContent: center
-        borderWidth: 1
 ---
