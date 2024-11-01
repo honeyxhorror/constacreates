@@ -336,13 +336,6 @@ sections:
         title: I'm Focused
         subtitle: ''
         text: "*   **Monitor**\_and analyze social media performance to optimize content and engagement strategies.\n\n*   **Track**\_social media metrics, analyze audience behavior, and identify content opportunities.\n\n*   **Improve**\_social media ROI, increase engagement, and refine content strategies for better results.\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions: []
         elementId: ''
         styles:
