@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Another cool project
 colors: colors-a
-date: ''
+date: '2021-05-20'
 client: Multimedia Journalism
 description: >-
   Using WordPress I created this blog post for my Multimedia Journalism course.
