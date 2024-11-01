@@ -122,7 +122,7 @@ sections:
           type: EmailFormControl
         - type: TextareaFormControl
           name: Phone Number
-          label: Message
+          label: Phone Number
           hideLabel: false
           placeholder: Type your message here
           width: full
