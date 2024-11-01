@@ -205,7 +205,10 @@ sections:
   - type: LabelsSection
     colors: colors-f
     subtitle: ''
-    items: []
+    items:
+      - type: Label
+        label: Audio InDesign
+        url: ''
     title: Skills
   - type: DividerSection
     styles:
