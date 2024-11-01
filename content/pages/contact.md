@@ -37,7 +37,7 @@ sections:
           placeholder: Interested in my work? Let's discuss ideas!
           width: full
           isRequired: true
-      submitLabel: Send Message
+      submitLabel: Submit
       elementId: contact-form
       styles:
         submitLabel:
