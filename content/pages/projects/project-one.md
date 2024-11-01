@@ -3,7 +3,7 @@ type: ProjectLayout
 title: A very cool code project
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: Web Design and Publishing
 description: >-
   Using a Bootstrap template, I created a wesite for a fake application. The
   idea was created as a group for my Web Design & Publishing course, but this
