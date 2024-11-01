@@ -266,7 +266,7 @@ sections:
             textAlign: left
     actions:
       - type: Button
-        label: Resume / CV
+        label: Download Resume
         altText: ''
         url: /
         showIcon: true
