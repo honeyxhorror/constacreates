@@ -327,16 +327,7 @@ sections:
         title: Social Media Management
         subtitle: ''
         text: "*   **Assist**\_with the creation and initial management of social media profiles across all platforms.\n\n*   **Manage**\_social media campaigns that increased follower count and engagement rates.\n\n*   **Create**\_and manage editorial calendars for consistent content delivery.\n\n\n\n\n"
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
