@@ -5,7 +5,7 @@ colors: colors-b
 sections:
   - elementId: ''
     colors: colors-b
-    backgroundSize: inset
+    backgroundSize: full
     title: 'I''m Connie, a Digital Multimedia Designer based in TX!'
     subtitle: >-
       I'm a creative individual who loves to create content and collaborate with
