@@ -239,6 +239,9 @@ sections:
       - type: Label
         label: StoryMap
         url: ''
+      - type: Label
+        label: Tableau
+        url: ''
     title: Skills
   - type: DividerSection
     styles:
