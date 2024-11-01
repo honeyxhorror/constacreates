@@ -222,6 +222,9 @@ sections:
         label: Content Managing Systems
         url: ''
       - type: Label
+        label: Google Flourish Charts
+        url: ''
+      - type: Label
         label: Figma
         url: ''
     title: Skills
