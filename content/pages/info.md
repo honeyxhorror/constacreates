@@ -300,7 +300,7 @@ sections:
       subtitle:
         textAlign: left
   - type: FeaturedItemsSection
-    title: Servies Offered
+    title: Services Offered
     items:
       - type: FeaturedItem
         title: Content Creation & Marketing
