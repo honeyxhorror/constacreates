@@ -41,6 +41,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: 'I''m a creator, designer & writer.'
   - type: DividerSection
     title: Divider
     elementId: ''
