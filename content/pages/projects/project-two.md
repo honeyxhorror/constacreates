@@ -3,7 +3,7 @@ type: ProjectLayout
 title: >-
   Commuting Stress: Texas State University Students Navigate Mental Health
   Challenges
-colors: colors-a
+colors: colors-b
 date: '2024-05-06'
 client: Multimedia Journalism
 description: >-
