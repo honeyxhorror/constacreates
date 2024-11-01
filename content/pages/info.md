@@ -154,7 +154,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: Audio InDesign
+        label: Adobe InDesign
         url: ''
       - type: Label
         label: Audio Editing
