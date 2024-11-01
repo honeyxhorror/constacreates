@@ -34,7 +34,7 @@ sections:
           name: message
           label: Tell me about your project
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Interested in my work? Let's discuss ideas!
           width: full
           isRequired: true
       submitLabel: Send Message
