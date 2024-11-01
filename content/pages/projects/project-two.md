@@ -13,7 +13,7 @@ description: >-
   this project took the whole Spring semester to complete.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/image_2024-10-31_232416872.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
