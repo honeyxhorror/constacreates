@@ -80,7 +80,7 @@ sections:
         label: Whatsapp
         url: ''
       - type: Label
-        label: Swift
+        label: ''
         url: ''
     colors: colors-f
     elementId: ''
