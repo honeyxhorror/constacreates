@@ -123,9 +123,7 @@ sections:
         borderWidth: 1
   - type: CtaSection
     title: Interested in my work? Let's talk!
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: ''
     actions:
       - type: Button
         label: Try it now
