@@ -46,56 +46,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - type: LabelsSection
-    colors: colors-b
-    subtitle: ''
-    items:
-      - type: Label
-        label: Audio InDesign
-        url: ''
-      - type: Label
-        label: Audio Editing
-        url: ''
-      - type: Label
-        label: Canva
-        url: ''
-      - type: Label
-        label: CSS
-        url: ''
-      - type: Label
-        label: Content Managing Systems
-        url: ''
-      - type: Label
-        label: Google Flourish Charts
-        url: ''
-      - type: Label
-        label: Figma
-        url: ''
-      - type: Label
-        label: HTML
-        url: ''
-      - type: Label
-        label: OpenRefine
-        url: ''
-      - type: Label
-        label: Photography
-        url: ''
-      - type: Label
-        label: StoryMap
-        url: ''
-      - type: Label
-        label: Tableau
-        url: ''
-      - type: Label
-        label: Video Editing
-        url: ''
-      - type: Label
-        label: Virtual Studio Code
-        url: ''
-      - type: Label
-        label: WordPress
-        url: ''
-    title: Skills
   - type: FeaturedItemsSection
     colors: colors-b
     items:
@@ -172,6 +122,56 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+  - type: LabelsSection
+    colors: colors-b
+    subtitle: ''
+    items:
+      - type: Label
+        label: Audio InDesign
+        url: ''
+      - type: Label
+        label: Audio Editing
+        url: ''
+      - type: Label
+        label: Canva
+        url: ''
+      - type: Label
+        label: CSS
+        url: ''
+      - type: Label
+        label: Content Managing Systems
+        url: ''
+      - type: Label
+        label: Google Flourish Charts
+        url: ''
+      - type: Label
+        label: Figma
+        url: ''
+      - type: Label
+        label: HTML
+        url: ''
+      - type: Label
+        label: OpenRefine
+        url: ''
+      - type: Label
+        label: Photography
+        url: ''
+      - type: Label
+        label: StoryMap
+        url: ''
+      - type: Label
+        label: Tableau
+        url: ''
+      - type: Label
+        label: Video Editing
+        url: ''
+      - type: Label
+        label: Virtual Studio Code
+        url: ''
+      - type: Label
+        label: WordPress
+        url: ''
+    title: Skills
   - type: FeaturedItemsSection
     title: Services Offered
     items:
