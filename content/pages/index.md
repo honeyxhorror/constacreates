@@ -130,7 +130,7 @@ sections:
       - type: Button
         label: Contact Me
         altText: ''
-        url: /
+        url: /contact
         showIcon: true
         icon: arrowRight
         iconPosition: right
