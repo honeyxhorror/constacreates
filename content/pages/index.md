@@ -205,9 +205,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: |+
-
-
+        text: ''
         actions:
           - type: Button
             label: ''
