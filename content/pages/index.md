@@ -124,7 +124,7 @@ sections:
           name: Phone Number
           label: Phone Number
           hideLabel: true
-          placeholder: ''
+          placeholder: Phone Number
           width: full
           isRequired: false
       submitLabel: 'Submit '
