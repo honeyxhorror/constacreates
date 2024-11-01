@@ -13,7 +13,7 @@ sections:
           name: name
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: First and Last Name
           width: 1/2
           isRequired: 'true'
         - type: EmailFormControl
