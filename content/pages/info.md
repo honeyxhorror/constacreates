@@ -272,7 +272,7 @@ sections:
         showIcon: true
         icon: chevronRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     colors: colors-b
     columns: 3
