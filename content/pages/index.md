@@ -117,7 +117,7 @@ sections:
           name: Phone Number
           label: ''
           hideLabel: false
-          placeholder: Your name
+          placeholder: Phone Number
           width: full
           isRequired: false
       submitLabel: 'Submit '
