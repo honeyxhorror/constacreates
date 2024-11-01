@@ -21,7 +21,7 @@ sections:
           label: ''
           hideLabel: true
           placeholder: Email
-          width: 1/2
+          width: full
           isRequired: 'true'
         - type: TextareaFormControl
           name: message
