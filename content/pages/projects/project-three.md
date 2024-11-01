@@ -5,9 +5,10 @@ colors: colors-a
 date: '2022-01-22'
 client: Media Design
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Using InDesign I created this short magazine for my Media Design course. I
+  take credit for all images used, its all my original content. Everything I
+  state in this magazine is true to my knowledge. Overall, this project took
+  about 3 weeks and a half to complete.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
