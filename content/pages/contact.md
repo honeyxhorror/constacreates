@@ -68,7 +68,7 @@ sections:
         textAlign: center
   - type: LabelsSection
     title: My Socials
-    subtitle: ''
+    subtitle: 'Here are my most used socials, you can view my work here as well!'
     items:
       - type: Label
         label: Instagram
