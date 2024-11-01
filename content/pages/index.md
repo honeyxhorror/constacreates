@@ -123,7 +123,7 @@ sections:
         - type: TextareaFormControl
           name: Phone Number
           label: Phone Number
-          hideLabel: true
+          hideLabel: false
           placeholder: Type your message here
           width: full
           isRequired: false
