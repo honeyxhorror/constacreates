@@ -70,5 +70,6 @@
             }
         }
     },
-    "favicon": "/images/ml.png"
+    "favicon": "/images/ml.png",
+    "defaultSocialImage": "/images/ml.png"
 }
