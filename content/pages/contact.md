@@ -27,7 +27,7 @@ sections:
           name: phone
           label: ''
           hideLabel: true
-          placeholder: Your name
+          placeholder: Phone Number
           width: full
           isRequired: false
         - type: TextareaFormControl
