@@ -60,7 +60,7 @@
                 "label": "Contact",
                 "url": "mailto:consta.creates@gmail.com",
                 "altText": "",
-                "showIcon": true
+                "showIcon": false
             },
             {
                 "type": "Link",
