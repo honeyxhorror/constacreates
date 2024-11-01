@@ -72,7 +72,7 @@ sections:
     items:
       - type: Label
         label: Instagram
-        url: ''
+        url: 'https://www.instagram.com/constamuniz/'
       - type: Label
         label: LinkedIn
         url: ''
