@@ -47,7 +47,7 @@ sections:
         width: full
         padding:
           - pt-0
-          - pb-4
+          - pb-6
         justifyContent: center
         borderWidth: 1
   - type: FeaturedItemsSection
