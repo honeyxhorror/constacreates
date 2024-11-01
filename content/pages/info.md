@@ -39,17 +39,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-0
-          - pb-0
-        justifyContent: center
-        borderWidth: 1
   - type: FeaturedItemsSection
     colors: colors-b
     items:
