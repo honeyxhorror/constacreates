@@ -77,9 +77,6 @@ sections:
         label: LinkedIn
         url: ''
       - type: Label
-        label: Netlify
-        url: ''
-      - type: Label
         label: Pancakes
         url: ''
       - type: Label
