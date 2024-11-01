@@ -361,13 +361,6 @@ sections:
         title: Audio & Video Editing
         subtitle: ''
         text: "*   **Transform**\_raw footage into short polished and professional pieces of media.\n\n<!---->\n\n*   **Editing**\_audio and video by doing things such as cutting, trimming, special effects, noise reduction, audio synchronization and final rendering.\n\n<!---->\n\n*   **Improving**\_sound and video quality in order to create a visual and auditory experience for the audience.\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
