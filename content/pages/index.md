@@ -63,7 +63,7 @@ sections:
         altText: ''
         url: /projects
         showIcon: false
-        icon: arrowRightCircle
+        icon: chevronRight
         iconPosition: right
         style: secondary
         elementId: ''
