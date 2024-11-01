@@ -8,7 +8,7 @@ sections:
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
-        url: ''
+        url: 'https://www.instagram.com/constamuniz/'
       - type: Label
         label: React
         url: ''
