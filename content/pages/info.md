@@ -287,14 +287,16 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: ''
-        text: |+
+        text: |
           **Busser at Oliver Garden**
 
           *September 2024 - Present*
 
           *San Antonio, TX*
 
-          ****
+          ***
+
+          ***
 
           **Curbside at H-E-B**
 
@@ -302,14 +304,15 @@ sections:
 
           *Wimberley, TX*
 
-          ****
+          ***
+
+          ***
 
           **Cashier/Team Member at Whataburger**
 
           *August 2018 - April 2019*
 
           *San Antonio, TX*
-
         styles:
           self:
             textAlign: left
