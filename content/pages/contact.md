@@ -67,7 +67,7 @@ sections:
       text:
         textAlign: center
   - type: LabelsSection
-    title: Skills
+    title: My Socials
     subtitle: ''
     items:
       - type: Label
