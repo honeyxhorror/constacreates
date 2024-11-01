@@ -124,7 +124,7 @@ sections:
           name: Message
           label: Message
           hideLabel: true
-          placeholder: Type your message here
+          placeholder: Insterested in my work? Let's talk about it!
           width: full
           isRequired: false
       submitLabel: 'Submit '
