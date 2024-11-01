@@ -78,9 +78,9 @@ sections:
       - type: FeaturedItem
         subtitle: ''
         text: |
-          **<br>**
+          <br>
 
-          **Busser at Oliver Garden**
+          ### **Busser at Oliver Garden**
 
           *September 2024 - Present*
 
@@ -88,7 +88,7 @@ sections:
 
           <br>
 
-          **Curbside at H-E-B**
+          ### **Curbside at H-E-B**
 
           *February 2022 - July 2022*
 
@@ -96,7 +96,7 @@ sections:
 
           <br>
 
-          **Cashier/Team Member at Whataburger**
+          ### **Cashier/Team Member at Whataburger**
 
           *August 2018 - April 2019*
 
@@ -112,7 +112,7 @@ sections:
         title: Experience
       - type: FeaturedItem
         subtitle: ''
-        text: "**<br>**\n\n**Texas State University**\n\n*Bachelor of Science in Digital Media Innovation, Minor in Art*\n\nSan Marcos, TX\n\n**Aug 2020 – May 2024**\n\n*   **Relevant Coursework:**\_Data Journalism, Multimedia Journalism, Editing & Managing Content, Immersive Storytelling, Media Writing, Media Design, Web Design and Publishing, Social Media Analytics\n\n<br>\n\n**Northwest Vista College**\n\n*Liberal Art Studies*\n\nSan Antonio, TX\n\n**Aug 2019 – May 2020**\n\n*   **Relevant Coursework:**\_Digital Media and Drawing 1\n\n"
+        text: "<br>\n\n### **Texas State University**\n\n*Bachelor of Science in Digital Media Innovation, Minor in Art*\n\nSan Marcos, TX\n\n**Aug 2020 – May 2024**\n\n*   **Relevant Coursework:**\_Data Journalism, Multimedia Journalism, Editing & Managing Content, Immersive Storytelling, Media Writing, Media Design, Web Design and Publishing, Social Media Analytics\n\n<br>\n\n### **Northwest Vista College**\n\n*Liberal Art Studies*\n\nSan Antonio, TX\n\n**Aug 2019 – May 2020**\n\n*   **Relevant Coursework:**\_Digital Media and Drawing 1\n\n"
         styles:
           self:
             textAlign: left
