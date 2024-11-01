@@ -216,8 +216,6 @@ sections:
         label: Next.js
       - type: Label
         label: Netlify
-      - type: Label
-        label: Pancakes
   - type: DividerSection
     styles:
       self:
