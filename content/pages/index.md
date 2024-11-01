@@ -42,7 +42,7 @@ sections:
         altText: ''
         url: /info
         showIcon: true
-        icon: arrowRight
+        icon: arrowRightCircle
         iconPosition: right
         style: secondary
         elementId: ''
