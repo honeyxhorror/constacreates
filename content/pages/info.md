@@ -236,6 +236,9 @@ sections:
       - type: Label
         label: Photography
         url: ''
+      - type: Label
+        label: StoryMap
+        url: ''
     title: Skills
   - type: DividerSection
     styles:
