@@ -266,7 +266,7 @@ sections:
             textAlign: left
     actions:
       - type: Button
-        label: Download Resume
+        label: Resume
         altText: ''
         url: /
         showIcon: true
