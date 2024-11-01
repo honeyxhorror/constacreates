@@ -296,21 +296,23 @@ sections:
 
           *   San Antonio, TX
 
-          **2018-2021**
+          **2022 - 2022**
 
-          *   fullstack at this startup
+          Curbside at H-E-B
 
-          **2015**
+          *   February 2022 - July 2022
 
-          *   senior front-end at this place
+          *   Wimberley, TX
 
-          **2013**
+          **2018 - 2019**
 
-          *   intern developer at a big company
+          Cashier/Team Member at Whataburger
 
-          **2011**
+          *   August 2018 - April 2019
 
-          *   flipping burgers
+          *   San Antonio, TX
+
+
 
         styles:
           self:
