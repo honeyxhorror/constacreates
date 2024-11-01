@@ -42,6 +42,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     title: 'I''m a creator, designer & writer.'
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: DividerSection
     title: Divider
     elementId: ''
