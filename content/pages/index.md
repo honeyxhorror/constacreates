@@ -157,4 +157,10 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: >+
+      Feel free to contact me about any ideas or questions you may have, I'd
+      love to work with you. Fill out this form and I'll get back to you within
+      the next 24 hours. Thank you for reaching out and showing interest, we'll
+      speak soon!
+
 ---
