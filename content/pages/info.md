@@ -286,7 +286,7 @@ sections:
     colors: colors-b
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: ''
         text: |-
           **Current**
 
