@@ -68,7 +68,7 @@
                 "type": "Link",
                 "label": "About Me",
                 "altText": "",
-                "url": "/About Me",
+                "url": "/info",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
