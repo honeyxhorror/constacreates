@@ -209,6 +209,9 @@ sections:
       - type: Label
         label: Audio InDesign
         url: ''
+      - type: Label
+        label: Audio Editing
+        url: ''
     title: Skills
   - type: DividerSection
     styles:
