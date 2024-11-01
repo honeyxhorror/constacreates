@@ -34,6 +34,14 @@
                 "url": "/https://www.instagram.com/constamuniz/",
                 "icon": "instagram",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/constamuniz17",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
