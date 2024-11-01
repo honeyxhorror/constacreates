@@ -7,7 +7,7 @@ sections:
     text: I'm look forward to hearing from you.
     form:
       type: FormBlock
-      title: Title of the form
+      title: Contact
       fields:
         - type: TextFormControl
           name: name
