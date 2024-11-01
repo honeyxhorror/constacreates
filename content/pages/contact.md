@@ -79,9 +79,6 @@ sections:
       - type: Label
         label: Whatsapp
         url: 'tel:+12109475162'
-      - type: Label
-        label: ''
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
