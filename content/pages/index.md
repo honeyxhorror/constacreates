@@ -108,6 +108,19 @@ sections:
         justifyContent: flex-end
     subtitle: ''
     title: Latest Projects
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-0
+          - pb-0
+          - pl-0
+          - pr-0
+        justifyContent: center
+        borderWidth: 1
   - type: CtaSection
     title: Let's do this
     text: >-
@@ -152,17 +165,4 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-0
-          - pb-0
-          - pl-0
-          - pr-0
-        justifyContent: center
-        borderWidth: 1
 ---
