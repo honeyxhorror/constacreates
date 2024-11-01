@@ -99,7 +99,7 @@ topSections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: FEATURED PROJECTS
+    title: featured projects
     subtitle: ''
     text: >
       Here I present my top digital media projects, each reflecting my
