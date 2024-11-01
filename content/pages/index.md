@@ -62,7 +62,7 @@ sections:
         label: See All Projects
         altText: ''
         url: /projects
-        showIcon: false
+        showIcon: true
         icon: chevronRight
         iconPosition: right
         style: secondary
