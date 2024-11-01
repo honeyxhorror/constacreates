@@ -312,7 +312,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Servies Offered
     items:
       - type: FeaturedItem
         title: Content Creation & Marketing
