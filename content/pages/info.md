@@ -294,17 +294,13 @@ sections:
 
           *San Antonio, TX*
 
-          ***
-
-          ***
+          **
 
           **Curbside at H-E-B**
 
           *February 2022 - July 2022*
 
           *Wimberley, TX*
-
-          ***
 
           ***
 
