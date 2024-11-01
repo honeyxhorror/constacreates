@@ -58,12 +58,6 @@ sections:
     type: FeaturedProjectsSection
     elementId: ''
     actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-        icon: arrowRight
-        iconPosition: right
-        showIcon: true
       - type: Button
         label: Learn more
         altText: ''
