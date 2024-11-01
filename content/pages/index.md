@@ -11,15 +11,12 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'I''m Connie, a Digital Multimedia Designer based in TX!'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I'm a creative individual who loves to create content and collaborate with
+      others. Constantly eager to learn something new and enhance my skillset.
     styles:
       self:
         height: auto
@@ -47,6 +44,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: ''
+      caption: ''
+      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -84,7 +87,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
