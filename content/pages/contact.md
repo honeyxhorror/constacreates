@@ -20,7 +20,7 @@ sections:
           name: email
           label: ''
           hideLabel: true
-          placeholder: Your email
+          placeholder: Email
           width: 1/2
           isRequired: 'true'
         - type: TextareaFormControl
