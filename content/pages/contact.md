@@ -4,7 +4,7 @@ title: Contact
 sections:
   - type: LabelsSection
     title: Socials
-    subtitle: The section subtitle
+    subtitle: 'Here are my most used socials, you can view my work here as well!'
     items:
       - type: Label
         label: Instagram
