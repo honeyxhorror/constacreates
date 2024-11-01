@@ -5,7 +5,7 @@ colors: colors-a
 projectFeed:
   type: ProjectFeedSection
   colors: colors-b
-  showDate: true
+  showDate: false
   showDescription: true
   showReadMoreLink: true
   showFeaturedImage: true
