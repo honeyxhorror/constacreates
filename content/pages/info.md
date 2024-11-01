@@ -288,31 +288,27 @@ sections:
       - type: FeaturedItem
         subtitle: ''
         text: |+
-          **Current**
+          **Busser at Oliver Garden**
 
-          Busser at Oliver Garden
+          *September 2024 - Present*
 
-          *   September 2024 - Present
+          *San Antonio, TX*
 
-          *   San Antonio, TX
+          ****
 
-          **2022 - 2022**
+          **Curbside at H-E-B**
 
-          Curbside at H-E-B
+          *February 2022 - July 2022*
 
-          *   February 2022 - July 2022
+          *Wimberley, TX*
 
-          *   Wimberley, TX
+          ****
 
-          **2018 - 2019**
+          **Cashier/Team Member at Whataburger**
 
-          Cashier/Team Member at Whataburger
+          *August 2018 - April 2019*
 
-          *   August 2018 - April 2019
-
-          *   San Antonio, TX
-
-
+          *San Antonio, TX*
 
         styles:
           self:
