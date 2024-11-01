@@ -79,7 +79,7 @@ sections:
       - type: Label
         label: Whatsapp
         url: 'tel:+12109475162'
-    colors: colors-f
+    colors: colors-b
     elementId: ''
     styles:
       self:
