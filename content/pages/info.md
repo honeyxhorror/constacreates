@@ -212,6 +212,9 @@ sections:
       - type: Label
         label: Audio Editing
         url: ''
+      - type: Label
+        label: Canva
+        url: ''
     title: Skills
   - type: DividerSection
     styles:
