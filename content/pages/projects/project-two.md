@@ -17,7 +17,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/image_2024-10-31_232435223.png
   altText: Project image
 metaTags: []
 ---
