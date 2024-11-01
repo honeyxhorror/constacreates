@@ -122,42 +122,6 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: CtaSection
-    title: Interested in my work? Let's talk!
-    text: >
-      I'm always open to working with creative individuals who are ready to
-      portray that creativity in a team setting.
-    actions:
-      - type: Button
-        label: Contact Me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: CtaSection
     title: Let's do this
     text: >
       I'm always open to working with creative individuals who are ready to
