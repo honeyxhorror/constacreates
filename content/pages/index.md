@@ -59,7 +59,7 @@ sections:
     elementId: ''
     actions:
       - type: Button
-        label: Learn more
+        label: See All Projects
         altText: ''
         url: /projects
         showIcon: false
