@@ -43,6 +43,17 @@ sections:
       altText: ''
       caption: ''
       elementId: ''
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - colors: colors-b
     type: FeaturedProjectsSection
     elementId: ''
