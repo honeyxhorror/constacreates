@@ -13,7 +13,7 @@ media:
   type: ImageBlock
   url: /images/bg3.jpg
   altText: Project image
-addTitleSuffix: true
+addTitleSuffix: false
 ---
 Using InDesign I created this short magazine for my Media Design course. I take credit for all images used, its all my original content. Everything I state in this magazine is true to my knowledge. Overall, this project took about 3 weeks and a half to complete.
 
