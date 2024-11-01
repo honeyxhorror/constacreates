@@ -19,9 +19,6 @@ sections:
         label: Next.js
         url: ''
       - type: Label
-        label: C++
-        url: ''
-      - type: Label
         label: Swift
         url: ''
     colors: colors-f
