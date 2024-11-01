@@ -64,6 +64,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         showIcon: true
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
