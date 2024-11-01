@@ -50,7 +50,7 @@ sections:
       altText: ''
       caption: ''
       elementId: ''
-  - colors: colors-f
+  - colors: colors-b
     type: FeaturedProjectsSection
     elementId: ''
     actions:
