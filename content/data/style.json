@@ -4,7 +4,7 @@
     "onLight": "#050806",
     "dark": "#000000",
     "onDark": "#FBFFF2",
-    "primary": "#ffffff",
+    "primary": "#000000",
     "onPrimary": "#FBFFF2",
     "secondary": "#ffffff",
     "onSecondary": "#050806",

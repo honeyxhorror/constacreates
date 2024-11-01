@@ -121,70 +121,40 @@ sections:
           - pr-0
         justifyContent: center
         borderWidth: 1
-  - type: ContactSection
-    colors: colors-b
+  - type: CtaSection
+    title: Interested in my work? Let's talk!
+    text: >
+      I'm always open to working with creative individuals who are ready to
+      portray that creativity in a team setting.
+    actions:
+      - type: Button
+        label: Contact Me
+        altText: ''
+        url: /contact
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
     backgroundSize: full
-    title: Contact
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: Full Name
-          label: ''
-          hideLabel: false
-          placeholder: First and Last Name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - type: TextFormControl
-          name: Phone Number
-          label: ''
-          hideLabel: false
-          placeholder: Phone Number
-          width: full
-          isRequired: true
-        - type: TextareaFormControl
-          name: Message
-          label: Message
-          hideLabel: true
-          placeholder: Interested in my work? Let's discuss ideas!
-          width: full
-          isRequired: true
-      submitLabel: 'Submit '
-      styles:
-        submitLabel:
-          textAlign: center
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pr-4
+          - pt-16
+          - pb-16
           - pl-4
+          - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
       title:
         textAlign: left
       text:
         textAlign: left
-    text: >
-      Feel free to contact me about any ideas or questions you may have, I'd
-      love to work with you. Fill out this form and I'll get back to you within
-      the next 24 hours. Thank you for reaching out and showing interest, we'll
-      speak soon!
+      actions:
+        justifyContent: flex-start
 ---
