@@ -58,9 +58,7 @@ Ensuring the mental well-being of commuters to Texas State University is essenti
 
 
 
-
-
-**Socials linked to this project:**
+## **Socials linked to this project:**
 
 WordPress Blog: <https://wordpress.com/view/constamuniz.wordpress.com>
 
