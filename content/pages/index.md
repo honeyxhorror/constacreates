@@ -120,6 +120,13 @@ sections:
           placeholder: Phone Number
           width: full
           isRequired: false
+        - type: TextareaFormControl
+          name: Message
+          label: Message
+          hideLabel: false
+          placeholder: Type your message here
+          width: full
+          isRequired: false
       submitLabel: 'Submit '
       styles:
         submitLabel:
