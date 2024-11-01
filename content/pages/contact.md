@@ -11,7 +11,7 @@ sections:
         url: 'https://www.instagram.com/constamuniz/'
       - type: Label
         label: React
-        url: ''
+        url: 'https://www.linkedin.com/in/constamuniz17'
       - type: Label
         label: Microsoft Office
         url: ''
