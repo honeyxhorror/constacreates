@@ -36,7 +36,16 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: More About Me
+        altText: ''
+        url: /info
+        showIcon: true
+        icon: chevronRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/me.png
@@ -58,12 +67,15 @@ sections:
     type: FeaturedProjectsSection
     elementId: ''
     actions:
-      - type: Link
-        label: See all projects
+      - type: Button
+        label: See All Projects
+        altText: ''
         url: /projects
-        icon: arrowRight
-        iconPosition: right
         showIcon: true
+        icon: arrowUpRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     showDate: false
     showDescription: true
     showFeaturedImage: true
@@ -94,7 +106,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: ''
+    title: Latest Projects
   - type: DividerSection
     title: Divider
     elementId: ''
