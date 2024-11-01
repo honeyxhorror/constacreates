@@ -39,7 +39,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/me.png
       altText: ''
       caption: ''
       elementId: ''
