@@ -74,7 +74,7 @@ sections:
         label: Instagram
         url: ''
       - type: Label
-        label: React
+        label: LinkedIn
         url: ''
       - type: Label
         label: Microsoft Office
