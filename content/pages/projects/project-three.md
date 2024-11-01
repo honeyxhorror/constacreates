@@ -4,7 +4,11 @@ title: 'TravelingChronicles: Summer 2023 Edition'
 colors: colors-b
 date: '2022-01-22'
 client: Media Design
-description: ''
+description: >-
+  Using InDesign I created this short magazine for my Media Design course. I
+  take credit for all images used, its all my original content. Everything I
+  state in this magazine is true to my knowledge. Overall, this project took
+  about 3 weeks and a half to complete.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
