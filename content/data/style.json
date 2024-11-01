@@ -10,66 +10,66 @@
     "onSecondary": "#050806",
     "complementary": "#565862",
     "onComplementary": "#FBFFF2",
-    "fontBody": "fontPrimary",
+    "fontBody": "fontSecondary",
     "h1": {
-        "size": "6xl",
+        "size": "5xl",
         "weight": "medium",
-        "decoration": "none",
+        "decoration": "underline",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "tighter"
     },
     "h2": {
         "size": "5xl",
-        "weight": "normal",
-        "decoration": "none",
+        "weight": "medium",
+        "decoration": "underline",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "tighter"
     },
     "h3": {
-        "size": "4xl",
+        "size": "3xl",
         "weight": "normal",
-        "decoration": "none",
-        "case": "uppercase",
-        "letterSpacing": "normal"
+        "decoration": "underline",
+        "case": "capitalize",
+        "letterSpacing": "tighter"
     },
     "h4": {
         "size": "3xl",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "tighter"
     },
     "h5": {
         "size": "xl",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "tighter"
     },
     "h6": {
         "size": "lg",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "tighter"
     },
     "buttonPrimary": {
-        "weight": "normal",
-        "case": "none",
+        "weight": "medium",
+        "case": "uppercase",
         "letterSpacing": "normal",
         "horizontalPadding": 20,
         "verticalPadding": 15
     },
     "buttonSecondary": {
-        "weight": "normal",
-        "case": "none",
+        "weight": "medium",
+        "case": "uppercase",
         "letterSpacing": "normal",
         "horizontalPadding": 20,
         "verticalPadding": 15
     },
     "link": {
-        "weight": "normal",
+        "weight": "medium",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "tighter"
     }
 }

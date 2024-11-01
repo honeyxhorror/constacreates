@@ -39,10 +39,21 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/me.png
       altText: ''
       caption: ''
       elementId: ''
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-0
+          - pb-0
+        justifyContent: center
+        borderWidth: 1
   - colors: colors-b
     type: FeaturedProjectsSection
     elementId: ''
