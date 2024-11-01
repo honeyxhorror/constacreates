@@ -204,7 +204,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: ''
     items: []
     title: Skills
   - type: DividerSection
