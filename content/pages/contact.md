@@ -32,7 +32,7 @@ sections:
           isRequired: false
         - type: TextareaFormControl
           name: message
-          label: Tell me about your project
+          label: ''
           hideLabel: true
           placeholder: Interested in my work? Let's discuss ideas!
           width: full
