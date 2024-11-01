@@ -120,13 +120,6 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - type: TextareaFormControl
-          name: Phone Number
-          label: Phone Number
-          hideLabel: true
-          placeholder: Phone Number
-          width: full
-          isRequired: false
       submitLabel: 'Submit '
       styles:
         submitLabel:
