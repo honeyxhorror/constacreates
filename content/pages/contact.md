@@ -77,7 +77,7 @@ sections:
         label: LinkedIn
         url: ''
       - type: Label
-        label: Pancakes
+        label: Whatsapp
         url: ''
       - type: Label
         label: Swift
