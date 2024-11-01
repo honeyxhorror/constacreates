@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'TravelingChronicles: Summer 2023 Edition'
+title: 'The TravelingChronicles: Summer 2023 Edition'
 colors: colors-b
 date: '2022-01-22'
 client: Media Design
