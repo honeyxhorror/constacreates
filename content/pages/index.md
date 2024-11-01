@@ -119,7 +119,7 @@ sections:
           hideLabel: false
           placeholder: Phone Number
           width: full
-          isRequired: false
+          isRequired: true
         - type: TextareaFormControl
           name: Message
           label: Message
