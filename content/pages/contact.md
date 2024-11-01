@@ -23,13 +23,6 @@ sections:
           placeholder: Email
           width: full
           isRequired: 'true'
-        - type: TextareaFormControl
-          name: message
-          label: Tell me about your project
-          hideLabel: true
-          placeholder: Tell me about your project
-          width: full
-          isRequired: true
         - type: TextFormControl
           name: phone
           label: Name
@@ -37,6 +30,13 @@ sections:
           placeholder: Your name
           width: full
           isRequired: false
+        - type: TextareaFormControl
+          name: message
+          label: Tell me about your project
+          hideLabel: true
+          placeholder: Tell me about your project
+          width: full
+          isRequired: true
       submitLabel: Send Message
       elementId: contact-form
       styles:
