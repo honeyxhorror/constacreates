@@ -221,6 +221,9 @@ sections:
       - type: Label
         label: Content Managing Systems
         url: ''
+      - type: Label
+        label: Figma
+        url: ''
     title: Skills
   - type: DividerSection
     styles:
