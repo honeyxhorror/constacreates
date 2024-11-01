@@ -2,16 +2,9 @@
 type: ProjectFeedLayout
 title: Projects
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 50
 projectFeed:
   type: ProjectFeedSection
-  colors: colors-f
+  colors: colors-b
   showDate: false
   showDescription: true
   showReadMoreLink: true
@@ -97,9 +90,9 @@ bottomSections:
         textAlign: left
 topSections:
   - type: TextSection
-    colors: colors-f
+    colors: colors-b
     variant: variant-a
-    title: FEATURED PROJECTS
+    title: featured projects
     subtitle: ''
     text: >
       Here I present my top digital media projects, each reflecting my
