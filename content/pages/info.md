@@ -344,10 +344,7 @@ sections:
       - type: FeaturedItem
         title: Search Engine Optimization
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "*   *   **Set up**\_Google Analytics, track key SEO metrics, and generate performance reports.*   **Getting**\_content optimized for search engines (SEO) to improve visibility, organic traffic, and rankings.*   **Conducting**\_keyword research and incorporate SEO best practices to enhance content performance.\n\n\n\n\n\n"
         featuredImage:
           type: ImageBlock
           url: >-
