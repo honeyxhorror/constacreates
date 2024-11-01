@@ -360,10 +360,7 @@ sections:
       - type: FeaturedItem
         title: Audio & Video Editing
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "**Transform**\_raw footage into short polished and professional pieces of media.**Editing**\_audio and video by doing things such as cutting, trimming, special effects, noise reduction, audio synchronization and final rendering.**Improving**\_sound and video quality in order to create a visual and auditory experience for the audience.\n\n\n\n"
         featuredImage:
           type: ImageBlock
           url: >-
