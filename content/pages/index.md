@@ -101,7 +101,7 @@ sections:
       fields:
         - name: Full Name
           label: Full Name
-          hideLabel: true
+          hideLabel: false
           placeholder: First and Last Name
           isRequired: true
           width: full
