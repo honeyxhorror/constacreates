@@ -50,6 +50,7 @@ sections:
       altText: me
       caption: ''
       elementId: ''
+      url: /images/meee.png
     actions:
       - type: Button
         label: Download Resume
