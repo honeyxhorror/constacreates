@@ -352,7 +352,7 @@ sections:
       - type: FeaturedItem
         title: Item Title
         subtitle: ''
-        text: "*   **Create**\_visually appealing designs like logo design, branding materials, brochures, flyers, and posters for various media platforms.*   **Setting up**\_basic websites using platforms like WordPress or Bootstrap, customizing templates, and ensuring mobile responsiveness.*   **Provide**\_an online presence, improve user experience, and make it easy for customers to find information.\n"
+        text: "*   **Create**\_visually appealing designs like logo design, branding materials, brochures, flyers, and posters for various media platforms.\n*   **Setting up**\_basic websites using platforms like WordPress or Bootstrap, customizing templates, and ensuring mobile responsiveness.\n*   **Provide**\_an online presence, improve user experience, and make it easy for customers to find information.\n\n"
         featuredImage:
           type: ImageBlock
           url: >-
