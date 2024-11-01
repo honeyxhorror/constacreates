@@ -208,4 +208,8 @@ sections:
         label: WordPress
         url: ''
     title: Skills
+    styles:
+      self:
+        padding:
+          - pb-2
 ---
