@@ -32,8 +32,6 @@ The [Counseling Office](https://www.counseling.txst.edu/about-the-counseling-ce
 
 Texas State University senior Valen Nevaeh said her weekly commute affects her mental health and work performance. Simple inconveniences like making sure the gas tank is full and leaving early tend to drain Nevaeh’s mood quickly. Although she saves money by not paying for a parking pass, she spends more just trying to make sure she gets to school on time.
 
-![](https://constacreates.carrd.co/assets/images/image08.jpg?v=ddda1af3)
-
 Nevaeh is a North Austin local who commutes weekly to Texas State University. Due to personal reasons she moved back, therefore commuting to school is the best option. Nevaeh stated her commute to San Marcos is about an hour and fifteen minutes long depending on traffic and time.
 
 “My commute does impact my mental health even though it’s only twice a week, the constant driving and long school days tend to wear me out,” said Nevaeh.
@@ -44,11 +42,7 @@ A lot of students like Nevaeh are worn out because of the same long cycle. She s
 
 Even though Nevaeh has a long class schedule on the daily, she does everything in her power to keep a good mental state.
 
-
-
 [Journalism and Mass Communication](https://sjmc.txst.edu/) professor Kym Fox said that traveling long distances doesn’t affect her mental health or work performance. Fox is from Boerne, west of San Marcos, and because of her current schedule its less chaotic commuting.
-
-
 
 “My commute is long, but it’s a beautiful drive. And because I only have to come to campus twice a week, that is very manageable for me. The other three days of the week I work from home, therefore it’s not as much on my mental health,” said Fox.
 
@@ -56,24 +50,16 @@ Fox said her drive is peaceful as she drives on back roads compared to those who
 
 “It’s a long commute and its hard on my car, but because I only twice a week and during the long semesters, it equals out and its not as hard on me,” said Fox.
 
-![](https://constacreates.carrd.co/assets/images/image09.jpg?v=ddda1af3)
-
 The COVID-19 pandemic caused commuter rates to rise tremendously. Since social distancing was needed, all classes were moved to online, and it became a challenge for many students and staff.
 
 3 years of doing online classes took a mental toll on many students, but it did lower the number of students commuting to campus. As the semesters went by, the number of commuters normalized as on campus courses were brought back.
 
 Ensuring the mental well-being of commuters to Texas State University is essential because commuting stress and balancing academic and home life can be challenging. Feeling worn out from campus can impact their overall health. Prioritizing mental health support helps students and staff succeed in a supportive university environment.
 
-
-
 **Socials linked to this project:**
-
 
 WordPress Blog: <https://wordpress.com/view/constamuniz.wordpress.com>
 
 Instagram: <https://www.instagram.com/constamunizsjmc/>
 
 Twitter: <https://twitter.com/constamunizsjmc>
-
-
-
