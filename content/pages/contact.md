@@ -35,7 +35,7 @@ sections:
       subtitle:
         textAlign: left
   - type: ContactSection
-    title: Contact Me
+    title: ''
     text: >+
       Feel free to contact me about any ideas or questions you may have, I'd
       love to work with you. Fill out this form and I'll get back to you within
