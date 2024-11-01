@@ -344,7 +344,7 @@ sections:
       - type: FeaturedItem
         title: Search Engine Optimization
         subtitle: ''
-        text: "*   **Set up**\_Google Analytics, track key SEO metrics, and generate performance reports.*   **Getting**\_content optimized for search engines (SEO) to improve visibility, organic traffic, and rankings.*   **Conducting**\_keyword research and incorporate SEO best practices to enhance content performance.\n"
+        text: "*   **Set up**\_Google Analytics, track key SEO metrics, and generate performance reports.\n*   **Getting**\_content optimized for search engines (SEO) to improve visibility, organic traffic, and rankings.\n*   **Conducting**\_keyword research and incorporate SEO best practices to enhance content performance.\n\n"
         elementId: ''
         styles:
           self:
