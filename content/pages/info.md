@@ -1,27 +1,25 @@
 ---
 type: PageLayout
 title: About
-colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg4.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
+colors: colors-b
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+    text: >
+      Hello! I'm an aspiring digital media enthusiast on a journey to transform
+      my passion into expertise. While my professional experience is just
+      beginning, my curiosity and eagerness to learn are boundless. 
+
+
+      I believe that every challenge is an opportunity to grow, and I’m ready to
+      dive into the digital world with fresh ideas and a positive attitude.
+
+
+      As a creative innovator, I'm constantly exploring the latest trends in
+      content creation, SEO, media design, and audio/video editing.Join me as I
+      embark on this new exciting adventure where I evolve as a designer and
+      artist!
     styles:
       self:
         height: auto
@@ -46,183 +44,33 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: 'I''m a creator, designer & writer.'
+    media:
+      type: ImageBlock
+      altText: me
+      caption: ''
+      elementId: ''
+    actions:
+      - type: Button
+        label: Download Resume
+        altText: ''
+        url: /
+        showIcon: true
+        icon: chevronRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - type: DividerSection
+    title: Divider
+    elementId: ''
     styles:
       self:
-        width: wide
+        width: full
         padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
+          - pt-0
+          - pb-6
         justifyContent: center
         borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find me here:'
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: LabelsSection
-    colors: colors-b
-    subtitle: ''
-    items:
-      - type: Label
-        label: Audio InDesign
-        url: ''
-      - type: Label
-        label: Audio Editing
-        url: ''
-      - type: Label
-        label: Canva
-        url: ''
-      - type: Label
-        label: CSS
-        url: ''
-      - type: Label
-        label: Content Managing Systems
-        url: ''
-      - type: Label
-        label: Google Flourish Charts
-        url: ''
-      - type: Label
-        label: Figma
-        url: ''
-      - type: Label
-        label: HTML
-        url: ''
-      - type: Label
-        label: OpenRefine
-        url: ''
-      - type: Label
-        label: Photography
-        url: ''
-      - type: Label
-        label: StoryMap
-        url: ''
-      - type: Label
-        label: Tableau
-        url: ''
-      - type: Label
-        label: Video Editing
-        url: ''
-      - type: Label
-        label: Virtual Studio Code
-        url: ''
-      - type: Label
-        label: WordPress
-        url: ''
-    title: Skills
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-b
     items:
@@ -300,19 +148,79 @@ sections:
       subtitle:
         textAlign: left
   - type: DividerSection
+    title: Divider
+    elementId: ''
     styles:
       self:
-        width: wide
+        width: full
         padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
+          - pt-0
+          - pb-0
         justifyContent: center
         borderWidth: 1
-        borderStyle: solid
+  - type: LabelsSection
+    colors: colors-b
+    subtitle: ''
+    items:
+      - type: Label
+        label: Adobe InDesign
+        url: ''
+      - type: Label
+        label: Audio Editing
+        url: ''
+      - type: Label
+        label: Canva
+        url: ''
+      - type: Label
+        label: CSS
+        url: ''
+      - type: Label
+        label: Content Managing Systems
+        url: ''
+      - type: Label
+        label: Google Flourish Charts
+        url: ''
+      - type: Label
+        label: Figma
+        url: ''
+      - type: Label
+        label: HTML
+        url: ''
+      - type: Label
+        label: OpenRefine
+        url: ''
+      - type: Label
+        label: Photography
+        url: ''
+      - type: Label
+        label: StoryMap
+        url: ''
+      - type: Label
+        label: Tableau
+        url: ''
+      - type: Label
+        label: Video Editing
+        url: ''
+      - type: Label
+        label: Virtual Studio Code
+        url: ''
+      - type: Label
+        label: WordPress
+        url: ''
+    title: Skills
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-0
+          - pb-0
+        justifyContent: center
+        borderWidth: 1
   - type: FeaturedItemsSection
-    title: Servies Offered
+    title: Services Offered
     items:
       - type: FeaturedItem
         title: Content Creation & Marketing
@@ -377,7 +285,7 @@ sections:
         width: wide
         padding:
           - pt-28
-          - pb-36
+          - pb-11
           - pl-4
           - pr-4
         justifyContent: center
