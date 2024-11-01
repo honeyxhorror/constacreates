@@ -41,7 +41,7 @@ sections:
         label: More About Me
         altText: ''
         url: /info
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
