@@ -53,7 +53,7 @@ sections:
       elementId: ''
     actions:
       - type: Button
-        label: Learn more
+        label: Download Resume
         altText: ''
         url: /
         showIcon: false
