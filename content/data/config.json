@@ -3,7 +3,7 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": true,
+        "isSticky": false,
         "title": "",
         "isTitleVisible": true,
         "primaryLinks": [
