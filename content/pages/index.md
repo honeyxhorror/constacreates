@@ -106,7 +106,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: ''
+    subtitle: Here I present my latest projects!
     title: Latest Projects
   - type: DividerSection
     title: Divider
