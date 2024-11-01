@@ -294,7 +294,7 @@ sections:
 
           *San Antonio, TX*
 
-          **
+          <br>
 
           **Curbside at H-E-B**
 
@@ -302,7 +302,7 @@ sections:
 
           *Wimberley, TX*
 
-          **
+          <br>
 
           **Cashier/Team Member at Whataburger**
 
