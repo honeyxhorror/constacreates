@@ -2,8 +2,40 @@
 type: PageLayout
 title: Contact
 sections:
-  - type: ContactSection
+  - type: LabelsSection
     title: Contact Me
+    subtitle: 'Here are my most used socials, you can view my work here as well!'
+    items:
+      - type: Label
+        label: Instagram
+        url: 'https://www.instagram.com/constamuniz/'
+      - type: Label
+        label: Linkedin
+        url: 'https://www.linkedin.com/in/constamuniz17'
+      - type: Label
+        label: WhatsApp
+        url: 'tel:+12109475162'
+      - type: Label
+        label: WordPress
+        url: 'https://constamuniz.wordpress.com/'
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-16
+          - pb-0
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+  - type: ContactSection
+    title: ''
     text: >+
       Feel free to contact me about any ideas or questions you may have, I'd
       love to work with you. Fill out this form and I'll get back to you within
@@ -55,8 +87,8 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-28
-          - pb-36
+          - pt-10
+          - pb-10
           - pl-4
           - pr-4
         alignItems: center
@@ -65,38 +97,6 @@ sections:
       title:
         textAlign: center
       text:
-        textAlign: center
-  - type: LabelsSection
-    title: My Socials
-    subtitle: 'Here are my most used socials, you can view my work here as well!'
-    items:
-      - type: Label
-        label: Instagram
-        url: 'https://www.instagram.com/constamuniz/'
-      - type: Label
-        label: LinkedIn
-        url: 'https://www.linkedin.com/in/constamuniz17'
-      - type: Label
-        label: Whatsapp
-        url: 'tel:+12109475162'
-      - type: Label
-        label: WordPress
-        url: 'https://constamuniz.wordpress.com/'
-    colors: colors-b
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-0
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
         textAlign: center
 addTitleSuffix: true
 colors: colors-b
