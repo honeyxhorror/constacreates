@@ -216,6 +216,9 @@ sections:
         label: Canva
         url: ''
       - type: Label
+        label: CSS
+        url: ''
+      - type: Label
         label: Content Managing Systems
         url: ''
     title: Skills
