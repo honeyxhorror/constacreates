@@ -317,10 +317,7 @@ sections:
       - type: FeaturedItem
         title: Content Creation & Marketing
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "*   **Develop**\_comprehensive content strategies to align with brand goals and target audience engagement.\n\n*   **Produce**\_high-quality videos, graphics, and podcasts using industry-standard tools.\n\n*   **Enhance**\_visual appeal, convey information effectively, and support branding efforts\n\n\n\n"
         actions: []
         elementId: ''
         styles:
