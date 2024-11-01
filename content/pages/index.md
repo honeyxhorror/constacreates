@@ -95,6 +95,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: ''
+    title: Latest Projects
   - type: DividerSection
     title: Divider
     elementId: ''
