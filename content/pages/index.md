@@ -115,7 +115,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: Phone Number
-          label: Name
+          label: ''
           hideLabel: false
           placeholder: Your name
           width: full
