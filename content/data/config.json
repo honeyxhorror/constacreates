@@ -12,7 +12,8 @@
                 "type": "Link",
                 "label": "About Me",
                 "url": "/info",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "play"
             },
             {
                 "type": "Link",
