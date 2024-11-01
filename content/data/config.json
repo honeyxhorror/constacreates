@@ -4,8 +4,8 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Personal",
+        "isSticky": true,
+        "title": "Home",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -19,27 +19,24 @@
                 "type": "Link",
                 "label": "Projects",
                 "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "label": "Instagram",
+                "altText": "",
+                "url": "/https://www.instagram.com/constamuniz/",
+                "icon": "instagram",
+                "elementId": ""
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "LinkedIn",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/constamuniz17",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -50,35 +47,7 @@
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:consta.creates@gmail.com",
-                "altText": "",
-                "showIcon": false,
-                "icon": "mail",
-                "iconPosition": "left"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
-            }
-        ],
+        "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",

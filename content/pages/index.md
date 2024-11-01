@@ -1,14 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
+colors: colors-b
 sections:
   - elementId: ''
     colors: colors-b
@@ -91,6 +84,19 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-0
+          - pb-0
+          - pl-0
+          - pr-0
+        justifyContent: center
+        borderWidth: 1
   - type: ContactSection
     colors: colors-b
     backgroundSize: full
@@ -124,7 +130,7 @@ sections:
           name: Message
           label: Message
           hideLabel: true
-          placeholder: Insterested in my work? Let's discuss ideas!
+          placeholder: Interested in my work? Let's discuss ideas!
           width: full
           isRequired: true
       submitLabel: 'Submit '
