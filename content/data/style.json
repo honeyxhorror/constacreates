@@ -33,7 +33,7 @@
         "letterSpacing": "tighter"
     },
     "h4": {
-        "size": "3xl",
+        "size": "9xl",
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
