@@ -211,5 +211,5 @@ sections:
     styles:
       self:
         padding:
-          - pb-2
+          - pb-0
 ---
