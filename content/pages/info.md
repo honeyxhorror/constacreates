@@ -205,9 +205,7 @@ sections:
   - type: LabelsSection
     colors: colors-f
     subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
+    items: []
   - type: DividerSection
     styles:
       self:
