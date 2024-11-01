@@ -104,7 +104,7 @@ sections:
           hideLabel: true
           placeholder: First Name
           isRequired: true
-          width: 1/2
+          width: full
           type: TextFormControl
         - name: lastName
           label: Last Name
