@@ -27,7 +27,7 @@
     },
     "h3": {
         "size": "3xl",
-        "weight": "normal",
+        "weight": "medium",
         "decoration": "underline",
         "case": "capitalize",
         "letterSpacing": "tighter"
