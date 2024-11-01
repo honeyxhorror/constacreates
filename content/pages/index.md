@@ -121,26 +121,4 @@ sections:
           - pr-0
         justifyContent: center
         borderWidth: 1
-  - type: ContactSection
-    title: Contact
-    text: Join my newsletter to stay up-to-date
-    colors: colors-b
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
 ---
