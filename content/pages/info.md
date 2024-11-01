@@ -233,6 +233,9 @@ sections:
       - type: Label
         label: OpenRefine
         url: ''
+      - type: Label
+        label: Photography
+        url: ''
     title: Skills
   - type: DividerSection
     styles:
