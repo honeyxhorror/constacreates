@@ -13,7 +13,7 @@ sections:
         label: Linkedin
         url: 'https://www.linkedin.com/in/constamuniz17'
       - type: Label
-        label: Microsoft Office
+        label: WhatsApp
         url: 'tel:+12109475162'
       - type: Label
         label: Next.js
