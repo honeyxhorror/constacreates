@@ -111,7 +111,7 @@ sections:
           hideLabel: true
           placeholder: Email
           isRequired: true
-          width: 1/2
+          width: full
           type: EmailFormControl
       submitLabel: 'Submit '
       styles:
