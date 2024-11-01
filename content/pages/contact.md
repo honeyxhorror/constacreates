@@ -42,7 +42,7 @@ sections:
       styles:
         submitLabel:
           textAlign: left
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
     elementId: ''
     styles:
