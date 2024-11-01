@@ -11,7 +11,7 @@ description: >-
   college course.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/pngg.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
