@@ -44,7 +44,7 @@ sections:
     title: 'I''m a creator, designer & writer.'
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/image_2024-11-01_000754007.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
