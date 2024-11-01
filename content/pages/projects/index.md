@@ -7,7 +7,7 @@ projectFeed:
   colors: colors-b
   showDate: false
   showDescription: true
-  showReadMoreLink: false
+  showReadMoreLink: true
   showFeaturedImage: true
   variant: variant-a
   styles:
