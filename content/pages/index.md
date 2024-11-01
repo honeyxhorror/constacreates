@@ -108,6 +108,19 @@ sections:
         justifyContent: flex-end
     subtitle: ''
     title: Latest Projects
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-0
+          - pb-0
+          - pl-0
+          - pr-0
+        justifyContent: center
+        borderWidth: 1
   - type: ContactSection
     title: Subscribe
     text: Join my newsletter to stay up-to-date
@@ -130,17 +143,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-0
-          - pb-0
-          - pl-0
-          - pr-0
-        justifyContent: center
-        borderWidth: 1
 ---
