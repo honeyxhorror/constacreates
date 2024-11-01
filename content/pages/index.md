@@ -126,7 +126,7 @@ sections:
           hideLabel: true
           placeholder: Insterested in my work? Let's talk about it!
           width: full
-          isRequired: false
+          isRequired: true
       submitLabel: 'Submit '
       styles:
         submitLabel:
